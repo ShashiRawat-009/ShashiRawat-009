@@ -16,7 +16,7 @@ Full Stack Development · LLM Integration · RAG Architecture
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 Featured Projects
 
 - **EchoEval** — AI-powered interview simulation platform with real-time voice sessions (VAPI) and automated AI feedback across communication and content quality dimensions. Built on Next.js + Firebase, deployed on Vercel.
 - **SkillSync** — HR-tech recruitment automation platform using NLP-based skill matching to screen candidates, cutting manual review effort by ~60%. MERN stack with role-based dashboards.
