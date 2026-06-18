@@ -6,7 +6,7 @@ Full Stack Development · LLM Integration · RAG Architecture
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashirawat-079498348">
+  <a href="https://www.linkedin.com/in/shashi-rawat-079498348/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rawatshashi546@gmail.com">
