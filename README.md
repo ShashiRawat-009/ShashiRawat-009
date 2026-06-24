@@ -21,7 +21,7 @@ Full Stack Development · LLM Integration · RAG Architecture
 - **EchoEval** — AI-powered interview simulation platform with real-time voice sessions (VAPI) and automated AI feedback across communication and content quality dimensions. Built on Next.js + Firebase, deployed on Vercel.
 - **SkillSync** — HR-tech recruitment automation platform using NLP-based skill matching to screen candidates, cutting manual review effort by ~60%. MERN stack with role-based dashboards.
 - **AI Healthcare Chatbot** — Production-grade RAG chatbot using Llama 3.1 (8B) via Groq, Pinecone vector embeddings, and LangChain data pipelines for context-aware clinical responses (<2s latency), deployed on AWS.
-- **MNIST Digit Classifier** — Benchmarked MLP (~98%) vs CNN (~99.2%) deep learning architectures on 60,000 samples, analyzing how convolutional layers improve spatial feature extraction.
+
 
 ---
 
